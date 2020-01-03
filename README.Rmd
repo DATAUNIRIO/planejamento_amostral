@@ -19,3 +19,11 @@ knitr::opts_chunk$set(
 1.[http://sillasgonzaga.com/post/a-equacao-mais-perigosa-do-mundo/](http://sillasgonzaga.com/post/a-equacao-mais-perigosa-do-mundo/)   
 2.[https://guilhermejacob.github.io/2019/12/meng2018/](https://guilhermejacob.github.io/2019/12/meng2018/) 
 
+Conclusões:
+AAS = Amostra Aleatória Simples  
+ANP = Amostra Não Probabilistica  
+Em uma população de 100 000 indivíduos, uma AAS de 5% já é melhor do essa ANP. Em uma população de 1 000 000 indivíduos, uma AAS de 0.4% da população já é melhor que esta ANP!
+
+Em uma população de 200 000 000 indivíduos, uma AAS de 0.45% da população é melhor que uma ANP de 90%. Com DI=10−4=0.0001, uma ANP que cobre 99% da população tão boa quanto uma AAS de aproximadamente 0.5% da população!
+
+O ponto central deste artigo é que, para estatística oficial, **se os seus sistemas de registro administrativo não forem excelentes, uma amostra probabilística é muito melhor.**
